@@ -1,4 +1,4 @@
-[\# iCodeThis.com daily challenge](https://icodethis.com/) 
+# [iCodeThis.com daily challenge](https://icodethis.com/) 
 
 [Notifications 3](https://icodethis.com/submissions/39121)
 
